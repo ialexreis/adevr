@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Alexandre Reis
 
-Fullstack Software Developer <b><a href="https://www.boldapps.pt/" target="_blank">@ Boldapps</a> and currently creating <b><a href="https://github.com/DRIVETCH" target="_blank">@DRIVETCH</a>
+Backend Enginner <b><a href="https://www.7egend.cr/" target="_blank">@ 7EGEND</a> and currently creating <b><a href="https://github.com/DRIVETCH" target="_blank">@DRIVETCH</a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alexandre%20Reis-b20000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-reis-dev/)](https://www.linkedin.com/in/alexandre-reis-dev/) 
 [![Gmail Badge](https://img.shields.io/badge/-alex.cst.reis@gmail.com-b20000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alex.cst.reis@gmail.com)](mailto:alex.cst.reis@gmail.com)

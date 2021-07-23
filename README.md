@@ -33,9 +33,9 @@ I'm a funny human being with will to improve every day and to help other achieve
 **_"Focus on signal over noise. Don't waste time on stuff that doesn't actually make things better"_** by _Elon Musk_
 
 
-Backend Enginner <b><a href="https://www.7egend.cr/" target="_blank">@7EGEND</a>  🏢 
+Backend Enginner <b><a href="https://www.7egend.cr/" target="_blank">@7EGEND</a></b>  🏢 
 
-I'm mainly active within the **Laravel Community**  🌍  
+I'm mainly active within the __Laravel Community__  🌍  
 
 Fun fact: I'm a huge fan of American Motorcycles   🏍️ 
 

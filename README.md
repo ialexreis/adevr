@@ -25,7 +25,7 @@ $alex->code();
 <br>
 <br>
 <br>
-<img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" align=left alt="Cowboy Coding" width=240px padding="0 10px 0 0">
+<img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" align=left alt="Cowboy Coding" width=230px padding="0 10px 0 0">
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a funny human being with will to improve every day and to help other achieve their goals.
 

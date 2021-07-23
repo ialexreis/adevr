@@ -1,26 +1,33 @@
-<img align="right" src="" alt="Illustration of Alex" width=350px height=465px/>
+<img align="right" src="https://raw.githubusercontent.com/ialexreis/adevr/master/03%20EFLC%20Alex%20Reis_headjar.png" alt="Illustration of Alex" width=350px />
 
-## Hi there 👋 I'm Alex Reis
+## Hi there 👋 I'm __Alex Reis__
+
 
 ```php
-$description = fn () => [
-    "hobbies" => [ "Sim Racing", "Motorcycles",  "Music" ],
-    "
-];
+$alex = new Person();
+
+$alex->hobbies = [ "Sim Racing", "Motorcycles",  "Music" ]; 
+
+$alex->stack = [ "PHP", ".NET", "Javascript", "Typescript" ];
+
+$alex->frameworks = [ "Laravel", "Phalcon", "Node.js" ];
+
+$alex->traits = [ "funny", "helpfull", "straight-forward" ];
+
+$alex->code();
 ```
+
 
 Backend Enginner <b><a href="https://www.7egend.cr/" target="_blank">@7EGEND</a> and occasionally helping the healthy growth of the Laravel community
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alexandre%20Reis-b20000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-reis-dev/)](https://www.linkedin.com/in/alexandre-reis-dev/) 
-[![Gmail Badge](https://img.shields.io/badge/-alex.cst.reis@gmail.com-b20000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alex.cst.reis@gmail.com)](mailto:alex.cst.reis@gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-reis-dev/)
+![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=social&logo=twitter&logoColor=white?link=https://twitter.com/ialexreis)
+![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram&logoColor=white?link=https://instagram.com/ialexreis)
 
-### Stack
+[![Gmail Badge](https://img.shields.io/badge/-costalexandreis@gmail.com-b20000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:costalexandreis@gmail.com)](mailto:costalexandreis@gmail.com)
 
-[![PHP Badge](https://img.shields.io/badge/-PHP-A9A9A9?style=flat-square&logo=PHP&logoColor=black)](PHP)
-[![Laravel Badge](https://img.shields.io/badge/-Laravel-A9A9A9?style=flat-square&logo=Laravel&logoColor=black)](Laravel)
-[![nodejs Badge](https://img.shields.io/badge/-Node.js-A9A9A9?style=flat-square&logo=Javascript&logoColor=black)](Node.js)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-A9A9A9?style=flat-square&logo=Typescript&logoColor=black)](Typescript)
-[![React Badge](https://img.shields.io/badge/-React-A9A9A9?style=flat-square&logo=React&logoColor=black)](React)
+
+<img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" align=left alt="Cowboy Coding" width=250px padding="0 10px 0 0">
 
 I'm a funny human being with will to improve every day and to help other achieve their goals.
 

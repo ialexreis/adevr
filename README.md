@@ -37,9 +37,11 @@ Backend Enginner <b><a href="https://www.7egend.cr/" target="_blank">@7EGEND</a>
 
 I'm mainly active within the **Laravel Community**  🌍  
 
+Fun fact: I'm a huge fan of American Motorcycles   🏍️ 
+
 Ping me about Laravel, Node and backend development in general.   💬
 
-Fun fact: I'm a huge fan of American Motorcycles   🏍️ 
+
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-reis-dev/)
 ![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white?link=https://twitter.com/ialexreis)

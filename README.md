@@ -1,4 +1,13 @@
-### Hi there 👋 I'm Alexandre Reis
+<img align="right" src="" alt="Illustration of Alex" width=350px height=465px/>
+
+## Hi there 👋 I'm Alex Reis
+
+```php
+$description = fn () => [
+    "hobbies" => [ "Sim Racing", "Motorcycles",  "Music" ],
+    "
+];
+```
 
 Backend Enginner <b><a href="https://www.7egend.cr/" target="_blank">@7EGEND</a> and occasionally helping the healthy growth of the Laravel community
 
@@ -12,8 +21,6 @@ Backend Enginner <b><a href="https://www.7egend.cr/" target="_blank">@7EGEND</a>
 [![nodejs Badge](https://img.shields.io/badge/-Node.js-A9A9A9?style=flat-square&logo=Javascript&logoColor=black)](Node.js)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-A9A9A9?style=flat-square&logo=Typescript&logoColor=black)](Typescript)
 [![React Badge](https://img.shields.io/badge/-React-A9A9A9?style=flat-square&logo=React&logoColor=black)](React)
-[![Java Badge](https://img.shields.io/badge/-Java-A9A9A9?style=flat-square&logo=Java&logoColor=black)](Java)
-
 
 I'm a funny human being with will to improve every day and to help other achieve their goals.
 

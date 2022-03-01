@@ -67,6 +67,8 @@ Ping me about Laravel, Node and backend development in general.   💬
 <a href="https://www.linkedin.com/in/alexandre-reis-dev/">
   <img align="left" alt="Alex's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+  
+  
 [![Gmail Badge](https://img.shields.io/badge/-costalexandreis@gmail.com-b20000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:costalexandreis@gmail.com)](mailto:costalexandreis@gmail.com)
 
 </div>

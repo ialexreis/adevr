@@ -40,7 +40,7 @@ class Me extends Person {
 <br>
 <br>
 <br>
-<img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" align=left alt="Cowboy Coding" width=230px padding="0 10px 0 0">
+<img src="https://raw.githubusercontent.com/ialexreis/ialexreis/master/code.gif" align=left alt="Cowboy Coding" width=230px padding="0 10px 0 0">
 
 <div align=right>
 I'm a funny human being with will to improve every day and to help other achieve their goals.
@@ -50,7 +50,7 @@ I'm a funny human being with will to improve every day and to help other achieve
 
 Backend Enginner <b><a href="https://www.7egend.cr/" target="_blank">@7EGEND</a></b>  🏢
 
-I'm mainly active within the __Laravel Community__  🌍  
+I'm mainly active within the __Laravel Community__ and currently learning game dev 🌍  
 
 Fun fact: I'm a huge fan of American Motorcycles   🏍️
 
@@ -58,9 +58,15 @@ Ping me about Laravel, Node and backend development in general.   💬
 
 
 
-<a href="https://www.linkedin.com/in/alexandre-reis-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-reis-dev/"/></a>
-<a href="https://twitter.com/ialexreis" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white?link=https://twitter.com/ialexreis"/></a>
-<a href="https://instagram.com/ialexreis" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white?link=https://instagram.com/ialexreis"/></a>
+<a href="https://instagram.com/ialexreis">
+  <img align="left" alt="Alex's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://twitter.com/ialexreis">
+  <img align="left" alt="Alex Reis | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/alexandre-reis-dev/">
+  <img align="left" alt="Alex's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 [![Gmail Badge](https://img.shields.io/badge/-costalexandreis@gmail.com-b20000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:costalexandreis@gmail.com)](mailto:costalexandreis@gmail.com)
 
 </div>

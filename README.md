@@ -1,23 +1,38 @@
 <img align="right" src="https://raw.githubusercontent.com/ialexreis/adevr/master/03%20EFLC%20Alex%20Reis_headjar.png" alt="Illustration of Alex" width=350px />
 
-## Hi there 👋 I'm __Alex Reis__
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Alex
 
 <br>
 <br>
 <br>
 
 ```php
-$alex = new Person();
+<?php
+namespace AlexReis;
 
-$alex->hobbies = [ "Sim Racing", "Motorcycles",  "Music" ]; 
+class Me extends Person {
 
-$alex->stack = [ "PHP", ".NET", "Javascript", "Typescript" ];
+  public function getHobbies() : array
+  {
+    return [ 'surf', 'gaming', 'motorcycles', 'music' ];
+  }
 
-$alex->frameworks = [ "Laravel", "Phalcon", "Node.js" ];
+  public function getStack() : array
+  {
+    return [ 'php', 'c#', 'node.js', 'typescript', 'java' ];
+  }
 
-$alex->traits = [ "funny", "helpfull", "straight-forward" ];
+  public function getFrameworks() : array
+  {
+    return [ 'laravel', 'phalcon', 'gatsby' ];
+  }
 
-$alex->code();
+  public function getTraits() : array
+  {
+    return [ 'helpfull', 'funny', 'straight-forward' ];
+  }
+}
+
 ```
 
 
@@ -33,11 +48,11 @@ I'm a funny human being with will to improve every day and to help other achieve
 **_"Focus on signal over noise. Don't waste time on stuff that doesn't actually make things better"_** by _Elon Musk_
 
 
-Backend Enginner <b><a href="https://www.7egend.cr/" target="_blank">@7EGEND</a></b>  🏢 
+Backend Enginner <b><a href="https://www.7egend.cr/" target="_blank">@7EGEND</a></b>  🏢
 
 I'm mainly active within the __Laravel Community__  🌍  
 
-Fun fact: I'm a huge fan of American Motorcycles   🏍️ 
+Fun fact: I'm a huge fan of American Motorcycles   🏍️
 
 Ping me about Laravel, Node and backend development in general.   💬
 
@@ -49,5 +64,3 @@ Ping me about Laravel, Node and backend development in general.   💬
 [![Gmail Badge](https://img.shields.io/badge/-costalexandreis@gmail.com-b20000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:costalexandreis@gmail.com)](mailto:costalexandreis@gmail.com)
 
 </div>
-    
-

@@ -1,8 +1,10 @@
-<img align="right" src="https://raw.githubusercontent.com/ialexreis/adevr/master/ava.png" alt="Illustration of Alex" width=350px />
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Alex
+  <img style="position:relative;padding-top:10px" src="https://raw.githubusercontent.com/ialexreis/adevr/master/ava.png" alt="Illustration of Alex" width=100px  />
+  
+  
+  ## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Alex 
 
-<br>
+
 <br>
 <br>
 

@@ -1,6 +1,6 @@
 
   <div align=center>
-  <img style="position:relative;padding-top:10px" src="https://raw.githubusercontent.com/ialexreis/adevr/master/ava.png" alt="Illustration of Alex" width=250px  />
+  <img style="position:relative;padding-top:10px" src="https://raw.githubusercontent.com/ialexreis/ialexreis/refs/heads/master/459651109_8922373864457392_6618530192898359438_n-fotor-ai-art-effects-20241231114206-removebg-preview.png" alt="Illustration of Alex" width=250px  />
   
   
   ## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Alex 
